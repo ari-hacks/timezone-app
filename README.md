@@ -28,4 +28,11 @@ package app with py2app:
 python3 setup.py py2app
 ```
 
+If you need to re-run py2app first remove the build and dist folders: 
+
+```
+rm -rf build dist
+```
+
 Run the application from the dist folder :grinning:
+
