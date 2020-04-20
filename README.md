@@ -1,4 +1,4 @@
-# Time Zone Status Bar App
+# TimeZone Status Bar App
 
 ## This is a simple mac app that displays 3 different time zones:
 
